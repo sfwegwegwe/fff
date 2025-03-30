@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1280x720
+http://stream4.zecast.com:1935/cloud-1/vijay/playlist.m3u8
